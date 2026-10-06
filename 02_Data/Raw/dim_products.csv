@@ -1,0 +1,15 @@
+product_id,product_name,category,storage_class,nominal_shelf_life_days,normal_shrinkage_pct,baseline_market_price_inr_per_kg,perishability_rank
+PRD_WHEAT,Wheat,Grain,Ambient,180,0.025,28.0,1
+PRD_RICE,Basmati Rice,Grain,Ambient,240,0.03,42.0,1
+PRD_ONION,Onion,Vegetable,Ambient,60,0.07,25.0,2
+PRD_POTATO,Potato,Vegetable,Cool,75,0.065,24.0,2
+PRD_TOMATO,Tomato,Vegetable,Cold,14,0.12,38.0,3
+PRD_CAPS,Capsicum,Vegetable,Cold,18,0.11,65.0,3
+PRD_OKRA,Okra,Vegetable,Cold,10,0.13,58.0,3
+PRD_APPLE,Apple,Fruit,Cold,120,0.075,95.0,3
+PRD_GRAPE,Grapes,Fruit,Cold,21,0.1,88.0,3
+PRD_MANGO,Mango,Fruit,Cold,24,0.115,82.0,3
+PRD_ORANGE,Orange,Fruit,Cool,55,0.08,62.0,2
+PRD_BANANA,Banana,Fruit,Cool,18,0.105,36.0,2
+PRD_CAULI,Cauliflower,Vegetable,Cold,12,0.125,35.0,3
+PRD_CHILI,Green Chilli,Vegetable,Cold,15,0.12,72.0,3

@@ -1,0 +1,50 @@
+Q01. Profile farms by region, supplier tier, irrigation type and certification.
+Q02. Calculate total harvest, accepted quantity and procurement spend.
+Q03. Calculate yield attainment by product and region.
+Q04. Identify farms with yield attainment below 80%.
+Q05. Calculate quality rejection rate by product.
+Q06. Calculate Grade A share by farm and product.
+Q07. Compare pesticide pass rate by certification.
+Q08. Calculate procurement price variance vs market reference price.
+Q09. Identify farms consistently buying above market.
+Q10. Calculate procurement spend concentration by farm/cooperative.
+Q11. Calculate inbound transport loss rate by carrier.
+Q12. Calculate average delay and on-time inbound performance by carrier.
+Q13. Calculate temperature-excursion rate by carrier and storage class.
+Q14. Compare reefer-required shipments by fleet type.
+Q15. Calculate freight cost per kg and per tonne-km.
+Q16. Identify lanes/shipments with high freight cost and high delay.
+Q17. Calculate spoilage quantity and value by warehouse.
+Q18. Calculate spoilage rate by product and storage class.
+Q19. Identify expired and critical-shelf-life inventory.
+Q20. Calculate inventory value at risk by warehouse/product.
+Q21. Measure average inventory age by product.
+Q22. Identify products where ageing exceeds target shelf-life thresholds.
+Q23. Calculate customer fill rate by product/customer type.
+Q24. Calculate OTIF by customer and service tier.
+Q25. Identify customers with service below target fill rate.
+Q26. Calculate customer rejection rate by product.
+Q27. Estimate sales lost from unfilled demand.
+Q28. Calculate gross margin by order using landed cost.
+Q29. Rank products by gross margin percentage.
+Q30. Calculate contribution of temperature excursions to customer rejection.
+Q31. Calculate days of shelf life remaining at dispatch.
+Q32. Identify aged dispatches / FEFO shelf-life risk.
+Q33. Build complete farm-to-customer lineage for a selected lot.
+Q34. Find every order/customer affected by a simulated recall lot.
+Q35. Calculate monthly demand by product.
+Q36. Build forecast error metrics for the holdout period.
+Q37. Calculate WAPE by product.
+Q38. Calculate safety stock using demand variability and lead time.
+Q39. Calculate reorder points by product.
+Q40. Compare safety stock with perishability / shelf life.
+Q41. Calculate supplier performance score using yield, quality, price and compliance.
+Q42. Rank high-risk suppliers by procurement exposure.
+Q43. Calculate carrier cold-chain score.
+Q44. Rank warehouses by spoilage + shelf-life risk.
+Q45. Compare weather-risk months with yield attainment.
+Q46. Compare irrigation type with yield stability.
+Q47. Calculate working-capital inventory exposure by product.
+Q48. Quantify addressable spoilage, service and quality opportunity pools.
+Q49. Create an executive supply-chain scorecard.
+Q50. Rank management interventions by low/base/high estimated financial impact.

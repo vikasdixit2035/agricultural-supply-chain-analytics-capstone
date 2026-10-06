@@ -1,0 +1,5 @@
+initiative,addressable_pool_inr,low_capture,base_capture,high_capture,assumption
+Cold-chain excursion reduction,420861619.0,0.08,0.18,0.3,Share of cold-product spoilage value avoided
+Supplier quality improvement,3052005728.9700003,0.06,0.12,0.2,Share of quality rejection value avoided
+Fill-rate recovery,440767205.88464427,0.1,0.25,0.4,Share of service-gap revenue recovered
+Inventory expiry reduction,578764139.0,0.05,0.12,0.22,Share of spoilage / expiry value avoided

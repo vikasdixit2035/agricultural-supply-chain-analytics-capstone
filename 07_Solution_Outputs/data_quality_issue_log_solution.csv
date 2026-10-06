@@ -1,0 +1,10 @@
+table,column,issue_type,example,recommended_fix
+dim_farms,region,Category inconsistency,Uttar pradesh vs Uttar Pradesh,Map to canonical region
+dim_farms,certification,Category inconsistency,globalgap vs GlobalG.A.P.,Map canonical certificate
+dim_farms,supplier_tier,Whitespace,Preferred ,TRIM
+fact_harvest_lots,purchase_price_inr_per_kg,Scale error,Some values ×100,Detect extreme price-to-market ratio and divide by 100
+fact_harvest_lots,quality_grade,Category inconsistency,grade a,Normalize grade values
+fact_harvest_lots,accepted_qty_kg,Missing derived value,Controlled nulls,Recalculate harvest_qty_kg - rejected_qty_kg
+fact_inbound_shipments,inbound_shipment_id,Duplicate rows,Controlled duplicates,Deduplicate on inbound_shipment_id
+fact_customer_orders,fill_rate,Scale error,Some ratios ×100,If >1 divide by 100 after validation
+fact_customer_orders,otif_flag,Missing derived KPI,Controlled nulls,Recalculate from fill rate and promised/actual delivery dates

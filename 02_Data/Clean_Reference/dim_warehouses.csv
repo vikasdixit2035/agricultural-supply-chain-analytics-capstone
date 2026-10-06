@@ -1,0 +1,16 @@
+warehouse_id,warehouse_name,region,warehouse_type,capacity_tonnes,cold_capacity_tonnes,target_inventory_days
+WH001,Distribution_Centre_01,Tamil Nadu,Mixed,5093.0,7453.0,17
+WH002,Distribution_Centre_02,Madhya Pradesh,Cold Chain,15767.0,6124.0,25
+WH003,Distribution_Centre_03,Himachal Pradesh,Cold Chain,5961.0,4161.0,15
+WH004,Distribution_Centre_04,Maharashtra,Ambient,15215.0,0.0,17
+WH005,Distribution_Centre_05,Haryana,Cold Chain,9944.0,4212.0,15
+WH006,Distribution_Centre_06,Himachal Pradesh,Mixed,12896.0,248.0,23
+WH007,Distribution_Centre_07,Rajasthan,Ambient,5399.0,0.0,26
+WH008,Distribution_Centre_08,Karnataka,Cold Chain,14801.0,5998.0,13
+WH009,Distribution_Centre_09,Himachal Pradesh,Mixed,4393.0,7150.0,26
+WH010,Distribution_Centre_10,Tamil Nadu,Cold Chain,11935.0,4868.0,29
+WH011,Distribution_Centre_11,Punjab,Mixed,10685.0,2926.0,23
+WH012,Distribution_Centre_12,Tamil Nadu,Mixed,11162.0,4399.0,13
+WH013,Distribution_Centre_13,Gujarat,Mixed,7818.0,6745.0,14
+WH014,Distribution_Centre_14,Haryana,Mixed,13057.0,5049.0,17
+WH015,Distribution_Centre_15,Uttar Pradesh,Cold Chain,9270.0,1287.0,26

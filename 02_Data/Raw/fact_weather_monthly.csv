@@ -1,0 +1,241 @@
+month,region,rainfall_mm,avg_temperature_c,temperature_anomaly_c,weather_risk_flag
+2024-10-01,Punjab,88.3,26.3,-0.92,Normal
+2024-10-01,Haryana,81.1,27.6,0.7,Normal
+2024-10-01,Uttar Pradesh,39.4,16.0,-0.75,Normal
+2024-10-01,Rajasthan,1.5,27.2,0.48,Normal
+2024-10-01,Maharashtra,76.2,24.8,0.12,Normal
+2024-10-01,Gujarat,59.2,15.1,0.05,Flood Risk
+2024-10-01,Karnataka,68.7,20.8,0.13,Normal
+2024-10-01,Tamil Nadu,25.7,29.3,0.21,Normal
+2024-10-01,Madhya Pradesh,119.8,24.8,0.81,Flood Risk
+2024-10-01,Himachal Pradesh,36.8,22.3,0.69,Normal
+2024-11-01,Punjab,103.5,17.1,-0.69,Normal
+2024-11-01,Haryana,40.7,19.1,-0.84,Flood Risk
+2024-11-01,Uttar Pradesh,101.4,21.2,0.21,Drought Risk
+2024-11-01,Rajasthan,74.2,17.4,0.01,Normal
+2024-11-01,Maharashtra,45.6,21.6,0.12,Normal
+2024-11-01,Gujarat,41.3,18.8,0.6,Normal
+2024-11-01,Karnataka,58.4,15.0,0.26,Heat Stress
+2024-11-01,Tamil Nadu,89.1,25.4,-1.61,Normal
+2024-11-01,Madhya Pradesh,106.2,19.6,1.68,Normal
+2024-11-01,Himachal Pradesh,9.0,17.5,-0.43,Normal
+2024-12-01,Punjab,114.3,20.7,-0.48,Normal
+2024-12-01,Haryana,62.6,24.4,-0.11,Normal
+2024-12-01,Uttar Pradesh,36.8,24.5,0.14,Normal
+2024-12-01,Rajasthan,15.0,20.3,0.41,Drought Risk
+2024-12-01,Maharashtra,59.8,23.5,-0.61,Normal
+2024-12-01,Gujarat,5.5,27.8,-0.61,Normal
+2024-12-01,Karnataka,53.4,25.0,0.13,Normal
+2024-12-01,Tamil Nadu,0.0,23.2,0.51,Drought Risk
+2024-12-01,Madhya Pradesh,53.8,28.0,-0.2,Flood Risk
+2024-12-01,Himachal Pradesh,82.5,18.7,0.87,Normal
+2025-01-01,Punjab,40.1,20.2,-0.85,Normal
+2025-01-01,Haryana,0.0,23.2,1.06,Normal
+2025-01-01,Uttar Pradesh,92.2,14.7,0.3,Normal
+2025-01-01,Rajasthan,64.0,27.9,-0.6,Normal
+2025-01-01,Maharashtra,63.7,14.9,-0.83,Normal
+2025-01-01,Gujarat,93.6,22.7,-0.89,Normal
+2025-01-01,Karnataka,52.7,25.1,-0.92,Normal
+2025-01-01,Tamil Nadu,99.2,22.2,1.28,Normal
+2025-01-01,Madhya Pradesh,78.0,21.1,0.34,Normal
+2025-01-01,Himachal Pradesh,88.3,17.8,-0.5,Normal
+2025-02-01,Punjab,0.0,31.9,0.99,Normal
+2025-02-01,Haryana,15.1,30.5,0.99,Normal
+2025-02-01,Uttar Pradesh,53.4,18.9,-0.54,Normal
+2025-02-01,Rajasthan,55.4,24.2,-1.08,Normal
+2025-02-01,Maharashtra,121.1,25.0,0.22,Normal
+2025-02-01,Gujarat,40.1,16.5,-0.11,Drought Risk
+2025-02-01,Karnataka,20.0,24.1,0.72,Normal
+2025-02-01,Tamil Nadu,80.5,26.9,-0.85,Flood Risk
+2025-02-01,Madhya Pradesh,23.9,23.4,1.34,Normal
+2025-02-01,Himachal Pradesh,32.4,19.5,-0.09,Normal
+2025-03-01,Punjab,89.1,26.5,0.27,Normal
+2025-03-01,Haryana,37.8,13.0,-0.61,Normal
+2025-03-01,Uttar Pradesh,87.7,26.3,0.31,Normal
+2025-03-01,Rajasthan,9.8,23.3,-0.16,Normal
+2025-03-01,Maharashtra,9.0,25.0,0.59,Normal
+2025-03-01,Gujarat,68.2,22.5,-0.69,Normal
+2025-03-01,Karnataka,69.4,20.6,-1.0,Normal
+2025-03-01,Tamil Nadu,15.8,27.7,0.33,Normal
+2025-03-01,Madhya Pradesh,112.3,25.5,0.35,Drought Risk
+2025-03-01,Himachal Pradesh,52.4,21.6,0.39,Normal
+2025-04-01,Punjab,23.7,29.4,-0.63,Normal
+2025-04-01,Haryana,43.7,26.6,0.52,Drought Risk
+2025-04-01,Uttar Pradesh,0.0,26.1,-1.15,Normal
+2025-04-01,Rajasthan,79.8,26.7,-0.71,Drought Risk
+2025-04-01,Maharashtra,18.6,26.8,0.04,Normal
+2025-04-01,Gujarat,47.9,31.7,-0.38,Flood Risk
+2025-04-01,Karnataka,29.6,29.2,0.56,Normal
+2025-04-01,Tamil Nadu,74.6,25.5,-0.18,Normal
+2025-04-01,Madhya Pradesh,90.0,30.5,-0.27,Normal
+2025-04-01,Himachal Pradesh,55.4,22.8,-0.23,Normal
+2025-05-01,Punjab,57.0,27.0,1.75,Normal
+2025-05-01,Haryana,68.3,31.4,-0.16,Normal
+2025-05-01,Uttar Pradesh,55.0,22.2,-0.62,Normal
+2025-05-01,Rajasthan,107.1,22.7,0.42,Normal
+2025-05-01,Maharashtra,88.6,29.2,0.3,Flood Risk
+2025-05-01,Gujarat,0.0,27.9,-0.04,Normal
+2025-05-01,Karnataka,58.3,26.7,0.07,Flood Risk
+2025-05-01,Tamil Nadu,94.7,30.3,-0.11,Drought Risk
+2025-05-01,Madhya Pradesh,90.6,27.3,0.18,Normal
+2025-05-01,Himachal Pradesh,27.1,27.1,0.27,Normal
+2025-06-01,Punjab,259.2,26.2,-0.3,Normal
+2025-06-01,Haryana,164.8,26.0,-0.26,Drought Risk
+2025-06-01,Uttar Pradesh,223.2,20.3,-0.85,Normal
+2025-06-01,Rajasthan,182.9,27.0,0.09,Normal
+2025-06-01,Maharashtra,168.4,28.7,0.25,Heat Stress
+2025-06-01,Gujarat,255.3,27.0,-0.09,Normal
+2025-06-01,Karnataka,145.8,32.8,0.25,Normal
+2025-06-01,Tamil Nadu,184.8,23.8,0.72,Normal
+2025-06-01,Madhya Pradesh,249.8,24.7,-0.65,Normal
+2025-06-01,Himachal Pradesh,118.6,33.9,1.15,Normal
+2025-07-01,Punjab,184.1,24.2,0.19,Normal
+2025-07-01,Haryana,210.0,31.2,0.13,Flood Risk
+2025-07-01,Uttar Pradesh,226.2,26.0,1.05,Normal
+2025-07-01,Rajasthan,136.8,34.8,0.4,Flood Risk
+2025-07-01,Maharashtra,210.4,31.6,-1.34,Normal
+2025-07-01,Gujarat,94.3,29.3,-0.7,Normal
+2025-07-01,Karnataka,142.9,18.8,0.19,Drought Risk
+2025-07-01,Tamil Nadu,229.2,23.4,-0.77,Normal
+2025-07-01,Madhya Pradesh,194.8,20.2,-0.6,Normal
+2025-07-01,Himachal Pradesh,191.4,31.8,0.15,Drought Risk
+2025-08-01,Punjab,221.4,22.0,-1.71,Normal
+2025-08-01,Haryana,234.9,24.3,-0.25,Drought Risk
+2025-08-01,Uttar Pradesh,122.0,25.7,-0.32,Normal
+2025-08-01,Rajasthan,116.7,25.1,0.42,Drought Risk
+2025-08-01,Maharashtra,173.5,23.3,0.3,Normal
+2025-08-01,Gujarat,196.0,19.1,-0.42,Normal
+2025-08-01,Karnataka,187.3,20.3,0.57,Normal
+2025-08-01,Tamil Nadu,224.1,23.6,-1.26,Flood Risk
+2025-08-01,Madhya Pradesh,142.1,26.2,-0.87,Normal
+2025-08-01,Himachal Pradesh,189.5,20.2,0.87,Drought Risk
+2025-09-01,Punjab,261.6,22.8,0.67,Normal
+2025-09-01,Haryana,218.2,21.1,0.11,Normal
+2025-09-01,Uttar Pradesh,177.6,21.0,0.19,Normal
+2025-09-01,Rajasthan,148.3,20.6,-0.99,Flood Risk
+2025-09-01,Maharashtra,163.8,21.2,0.59,Normal
+2025-09-01,Gujarat,147.9,17.8,-1.16,Drought Risk
+2025-09-01,Karnataka,147.6,21.7,0.52,Normal
+2025-09-01,Tamil Nadu,148.6,20.8,-0.67,Flood Risk
+2025-09-01,Madhya Pradesh,217.9,18.0,1.01,Normal
+2025-09-01,Himachal Pradesh,181.1,26.6,-0.01,Drought Risk
+2025-10-01,Punjab,34.6,20.2,0.28,Normal
+2025-10-01,Haryana,0.0,12.7,-0.24,Normal
+2025-10-01,Uttar Pradesh,52.9,21.9,-0.67,Normal
+2025-10-01,Rajasthan,14.0,21.8,1.05,Normal
+2025-10-01,Maharashtra,47.3,19.2,-0.17,Normal
+2025-10-01,Gujarat,46.7,20.1,-0.96,Normal
+2025-10-01,Karnataka,61.5,23.5,0.43,Normal
+2025-10-01,Tamil Nadu,23.6,22.3,0.81,Normal
+2025-10-01,Madhya Pradesh,15.0,17.2,-0.16,Drought Risk
+2025-10-01,Himachal Pradesh,54.2,19.2,1.55,Normal
+2025-11-01,Punjab,139.9,16.1,0.46,Drought Risk
+2025-11-01,Haryana,36.3,16.1,-0.05,Normal
+2025-11-01,Uttar Pradesh,0.0,24.1,-0.1,Normal
+2025-11-01,Rajasthan,15.3,23.6,-0.14,Heat Stress
+2025-11-01,Maharashtra,0.0,21.3,-0.41,Drought Risk
+2025-11-01,Gujarat,110.6,26.0,0.78,Drought Risk
+2025-11-01,Karnataka,88.2,27.7,1.18,Normal
+2025-11-01,Tamil Nadu,44.9,26.1,-0.42,Heat Stress
+2025-11-01,Madhya Pradesh,98.0,25.9,0.48,Normal
+2025-11-01,Himachal Pradesh,39.4,27.2,-0.13,Normal
+2025-12-01,Punjab,0.0,25.0,0.2,Drought Risk
+2025-12-01,Haryana,93.0,20.5,1.01,Normal
+2025-12-01,Uttar Pradesh,0.0,23.8,0.12,Normal
+2025-12-01,Rajasthan,105.3,19.9,-0.64,Drought Risk
+2025-12-01,Maharashtra,58.7,17.6,-0.32,Normal
+2025-12-01,Gujarat,67.3,24.9,-1.12,Normal
+2025-12-01,Karnataka,41.1,21.1,-0.05,Normal
+2025-12-01,Tamil Nadu,116.7,16.9,-0.06,Normal
+2025-12-01,Madhya Pradesh,15.1,22.7,0.92,Normal
+2025-12-01,Himachal Pradesh,0.0,25.6,0.87,Normal
+2026-01-01,Punjab,72.1,25.9,0.13,Normal
+2026-01-01,Haryana,112.0,18.4,-1.61,Normal
+2026-01-01,Uttar Pradesh,27.2,27.7,0.44,Normal
+2026-01-01,Rajasthan,31.1,30.8,-0.27,Heat Stress
+2026-01-01,Maharashtra,6.8,22.4,1.53,Normal
+2026-01-01,Gujarat,34.3,20.4,0.03,Normal
+2026-01-01,Karnataka,56.0,22.5,-0.63,Heat Stress
+2026-01-01,Tamil Nadu,97.5,23.2,-0.35,Normal
+2026-01-01,Madhya Pradesh,0.0,16.4,1.07,Normal
+2026-01-01,Himachal Pradesh,122.3,23.2,-0.1,Normal
+2026-02-01,Punjab,33.2,24.9,0.66,Normal
+2026-02-01,Haryana,44.1,14.6,1.15,Normal
+2026-02-01,Uttar Pradesh,53.4,18.7,-0.31,Normal
+2026-02-01,Rajasthan,63.1,17.3,0.52,Normal
+2026-02-01,Maharashtra,43.0,24.8,-1.38,Normal
+2026-02-01,Gujarat,51.5,21.1,-0.7,Heat Stress
+2026-02-01,Karnataka,40.8,28.9,1.31,Normal
+2026-02-01,Tamil Nadu,57.2,25.0,0.01,Normal
+2026-02-01,Madhya Pradesh,2.4,15.1,0.46,Normal
+2026-02-01,Himachal Pradesh,86.5,23.8,-0.09,Normal
+2026-03-01,Punjab,28.7,13.1,-0.4,Flood Risk
+2026-03-01,Haryana,49.7,25.7,0.35,Normal
+2026-03-01,Uttar Pradesh,78.9,20.5,0.33,Heat Stress
+2026-03-01,Rajasthan,12.7,15.3,1.08,Normal
+2026-03-01,Maharashtra,34.3,28.8,1.3,Normal
+2026-03-01,Gujarat,30.5,22.3,0.16,Normal
+2026-03-01,Karnataka,35.9,24.4,0.07,Heat Stress
+2026-03-01,Tamil Nadu,89.0,20.3,0.22,Normal
+2026-03-01,Madhya Pradesh,4.6,23.3,0.85,Normal
+2026-03-01,Himachal Pradesh,12.1,28.9,0.62,Drought Risk
+2026-04-01,Punjab,21.5,23.0,-0.34,Normal
+2026-04-01,Haryana,32.9,28.1,-0.31,Normal
+2026-04-01,Uttar Pradesh,40.3,23.2,0.23,Normal
+2026-04-01,Rajasthan,45.8,26.5,0.46,Normal
+2026-04-01,Maharashtra,89.6,26.0,-0.9,Drought Risk
+2026-04-01,Gujarat,82.3,27.1,-1.35,Normal
+2026-04-01,Karnataka,76.1,34.8,-0.51,Normal
+2026-04-01,Tamil Nadu,86.7,23.9,-0.78,Normal
+2026-04-01,Madhya Pradesh,116.6,27.6,0.44,Flood Risk
+2026-04-01,Himachal Pradesh,42.1,33.0,-0.4,Normal
+2026-05-01,Punjab,85.8,27.0,-1.08,Normal
+2026-05-01,Haryana,113.5,23.3,0.41,Normal
+2026-05-01,Uttar Pradesh,64.5,27.8,1.25,Heat Stress
+2026-05-01,Rajasthan,86.1,28.0,-0.07,Normal
+2026-05-01,Maharashtra,108.1,27.5,0.78,Heat Stress
+2026-05-01,Gujarat,34.2,18.7,0.32,Normal
+2026-05-01,Karnataka,29.5,25.6,-0.58,Normal
+2026-05-01,Tamil Nadu,122.6,30.2,-0.27,Drought Risk
+2026-05-01,Madhya Pradesh,21.1,25.9,1.48,Heat Stress
+2026-05-01,Himachal Pradesh,32.2,26.2,-0.66,Normal
+2026-06-01,Punjab,122.4,27.1,-0.5,Normal
+2026-06-01,Haryana,212.3,21.8,-0.02,Normal
+2026-06-01,Uttar Pradesh,168.8,31.8,0.81,Heat Stress
+2026-06-01,Rajasthan,145.5,29.7,0.33,Normal
+2026-06-01,Maharashtra,176.6,19.6,-0.94,Normal
+2026-06-01,Gujarat,193.1,28.3,-0.47,Normal
+2026-06-01,Karnataka,142.4,24.8,-0.02,Normal
+2026-06-01,Tamil Nadu,111.4,28.4,-1.01,Normal
+2026-06-01,Madhya Pradesh,184.0,26.8,-0.78,Normal
+2026-06-01,Himachal Pradesh,188.7,24.8,0.64,Normal
+2026-07-01,Punjab,154.9,34.0,-0.45,Normal
+2026-07-01,Haryana,207.3,30.0,-0.25,Normal
+2026-07-01,Uttar Pradesh,141.7,29.2,0.93,Heat Stress
+2026-07-01,Rajasthan,130.3,25.8,-1.04,Normal
+2026-07-01,Maharashtra,183.4,23.3,-0.76,Flood Risk
+2026-07-01,Gujarat,220.8,25.9,-1.06,Normal
+2026-07-01,Karnataka,135.4,31.9,-0.27,Normal
+2026-07-01,Tamil Nadu,138.9,30.0,-0.01,Normal
+2026-07-01,Madhya Pradesh,202.8,33.0,0.39,Normal
+2026-07-01,Himachal Pradesh,135.2,31.6,0.46,Normal
+2026-08-01,Punjab,215.8,21.1,-0.18,Flood Risk
+2026-08-01,Haryana,166.1,20.2,0.78,Normal
+2026-08-01,Uttar Pradesh,202.8,29.0,0.08,Normal
+2026-08-01,Rajasthan,171.6,16.0,0.21,Normal
+2026-08-01,Maharashtra,165.9,22.5,-1.58,Normal
+2026-08-01,Gujarat,151.7,22.0,-0.06,Normal
+2026-08-01,Karnataka,209.0,22.1,-0.85,Normal
+2026-08-01,Tamil Nadu,173.3,20.9,-0.78,Normal
+2026-08-01,Madhya Pradesh,167.3,28.7,-1.77,Normal
+2026-08-01,Himachal Pradesh,163.1,25.3,1.01,Flood Risk
+2026-09-01,Punjab,161.3,20.5,0.82,Normal
+2026-09-01,Haryana,187.3,19.5,-0.13,Normal
+2026-09-01,Uttar Pradesh,205.6,27.2,0.64,Normal
+2026-09-01,Rajasthan,163.7,21.3,-1.0,Normal
+2026-09-01,Maharashtra,224.7,20.8,0.1,Normal
+2026-09-01,Gujarat,158.6,20.0,0.54,Heat Stress
+2026-09-01,Karnataka,175.0,27.1,0.13,Normal
+2026-09-01,Tamil Nadu,202.0,20.8,-0.34,Normal
+2026-09-01,Madhya Pradesh,173.8,22.9,-0.27,Normal
+2026-09-01,Himachal Pradesh,128.7,17.8,-0.13,Normal

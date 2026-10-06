@@ -1,0 +1,13 @@
+{
+  "procurement_spend_inr": 47601092811.16,
+  "sales_inr": 7529226708.73,
+  "avg_fill_rate": 0.9414591666666667,
+  "otif": 0.10933333333333334,
+  "quality_rejection_rate": 0.06223998280601121,
+  "transport_loss_rate": 0.05805222081887149,
+  "spoilage_value_inr": 578764139.0,
+  "temp_excursion_rate": 0.5292650795144443,
+  "forecast_wape": 0.10375849383333444,
+  "recall_lot": "LOT0005168",
+  "recall_affected_customers": 19
+}

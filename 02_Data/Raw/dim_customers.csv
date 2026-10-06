@@ -1,0 +1,501 @@
+customer_id,customer_name,customer_type,region,service_tier,target_fill_rate
+CUS00001,Customer_0001,HORECA,Tamil Nadu,B,0.95
+CUS00002,Customer_0002,Food Processor,Himachal Pradesh,A,0.92
+CUS00003,Customer_0003,Food Processor,Karnataka,B,0.95
+CUS00004,Customer_0004,Wholesale,Rajasthan,B,0.95
+CUS00005,Customer_0005,HORECA,Uttar Pradesh,B,0.97
+CUS00006,Customer_0006,HORECA,Madhya Pradesh,A,0.95
+CUS00007,Customer_0007,Food Processor,Rajasthan,A,0.98
+CUS00008,Customer_0008,Food Processor,Uttar Pradesh,A,0.98
+CUS00009,Customer_0009,Wholesale,Karnataka,A,0.97
+CUS00010,Customer_0010,HORECA,Karnataka,C,0.97
+CUS00011,Customer_0011,HORECA,Punjab,B,0.97
+CUS00012,Customer_0012,Modern Retail,Gujarat,C,0.97
+CUS00013,Customer_0013,Modern Retail,Gujarat,A,0.95
+CUS00014,Customer_0014,HORECA,Haryana,C,0.92
+CUS00015,Customer_0015,Modern Retail,Tamil Nadu,B,0.92
+CUS00016,Customer_0016,Modern Retail,Himachal Pradesh,B,0.98
+CUS00017,Customer_0017,Wholesale,Madhya Pradesh,A,0.95
+CUS00018,Customer_0018,Wholesale,Haryana,C,0.95
+CUS00019,Customer_0019,Modern Retail,Gujarat,B,0.98
+CUS00020,Customer_0020,Export,Gujarat,A,0.95
+CUS00021,Customer_0021,HORECA,Maharashtra,B,0.92
+CUS00022,Customer_0022,HORECA,Uttar Pradesh,B,0.98
+CUS00023,Customer_0023,Modern Retail,Himachal Pradesh,B,0.98
+CUS00024,Customer_0024,Modern Retail,Gujarat,B,0.95
+CUS00025,Customer_0025,Food Processor,Uttar Pradesh,B,0.95
+CUS00026,Customer_0026,Modern Retail,Gujarat,A,0.97
+CUS00027,Customer_0027,Food Processor,Karnataka,A,0.95
+CUS00028,Customer_0028,Wholesale,Tamil Nadu,C,0.92
+CUS00029,Customer_0029,Food Processor,Maharashtra,A,0.92
+CUS00030,Customer_0030,Wholesale,Rajasthan,B,0.98
+CUS00031,Customer_0031,Wholesale,Maharashtra,B,0.95
+CUS00032,Customer_0032,Food Processor,Haryana,B,0.98
+CUS00033,Customer_0033,Wholesale,Gujarat,B,0.92
+CUS00034,Customer_0034,Modern Retail,Tamil Nadu,A,0.92
+CUS00035,Customer_0035,Food Processor,Punjab,C,0.97
+CUS00036,Customer_0036,HORECA,Maharashtra,C,0.97
+CUS00037,Customer_0037,Modern Retail,Haryana,C,0.92
+CUS00038,Customer_0038,Food Processor,Rajasthan,A,0.97
+CUS00039,Customer_0039,Food Processor,Maharashtra,B,0.95
+CUS00040,Customer_0040,Food Processor,Rajasthan,B,0.95
+CUS00041,Customer_0041,Wholesale,Himachal Pradesh,C,0.97
+CUS00042,Customer_0042,Wholesale,Tamil Nadu,B,0.95
+CUS00043,Customer_0043,Modern Retail,Rajasthan,B,0.97
+CUS00044,Customer_0044,Wholesale,Rajasthan,B,0.92
+CUS00045,Customer_0045,Wholesale,Maharashtra,C,0.97
+CUS00046,Customer_0046,Wholesale,Punjab,B,0.95
+CUS00047,Customer_0047,Export,Tamil Nadu,A,0.92
+CUS00048,Customer_0048,Modern Retail,Punjab,B,0.97
+CUS00049,Customer_0049,Wholesale,Maharashtra,B,0.92
+CUS00050,Customer_0050,Wholesale,Punjab,B,0.95
+CUS00051,Customer_0051,Food Processor,Rajasthan,C,0.95
+CUS00052,Customer_0052,Wholesale,Karnataka,B,0.95
+CUS00053,Customer_0053,Modern Retail,Karnataka,B,0.95
+CUS00054,Customer_0054,Export,Haryana,C,0.97
+CUS00055,Customer_0055,Wholesale,Tamil Nadu,B,0.97
+CUS00056,Customer_0056,Wholesale,Himachal Pradesh,C,0.98
+CUS00057,Customer_0057,Food Processor,Gujarat,B,0.92
+CUS00058,Customer_0058,Export,Tamil Nadu,B,0.97
+CUS00059,Customer_0059,HORECA,Maharashtra,B,0.97
+CUS00060,Customer_0060,HORECA,Himachal Pradesh,C,0.97
+CUS00061,Customer_0061,Modern Retail,Maharashtra,B,0.97
+CUS00062,Customer_0062,HORECA,Gujarat,C,0.92
+CUS00063,Customer_0063,Food Processor,Rajasthan,C,0.98
+CUS00064,Customer_0064,HORECA,Tamil Nadu,B,0.95
+CUS00065,Customer_0065,Food Processor,Karnataka,A,0.95
+CUS00066,Customer_0066,Food Processor,Rajasthan,C,0.95
+CUS00067,Customer_0067,HORECA,Uttar Pradesh,B,0.97
+CUS00068,Customer_0068,HORECA,Gujarat,B,0.97
+CUS00069,Customer_0069,Food Processor,Gujarat,B,0.97
+CUS00070,Customer_0070,Export,Tamil Nadu,C,0.97
+CUS00071,Customer_0071,Food Processor,Punjab,A,0.92
+CUS00072,Customer_0072,Modern Retail,Rajasthan,C,0.95
+CUS00073,Customer_0073,Wholesale,Uttar Pradesh,A,0.95
+CUS00074,Customer_0074,Food Processor,Uttar Pradesh,C,0.98
+CUS00075,Customer_0075,Export,Tamil Nadu,A,0.97
+CUS00076,Customer_0076,HORECA,Rajasthan,B,0.97
+CUS00077,Customer_0077,Food Processor,Madhya Pradesh,B,0.95
+CUS00078,Customer_0078,Modern Retail,Haryana,B,0.95
+CUS00079,Customer_0079,Modern Retail,Rajasthan,B,0.97
+CUS00080,Customer_0080,Food Processor,Karnataka,B,0.92
+CUS00081,Customer_0081,HORECA,Tamil Nadu,C,0.95
+CUS00082,Customer_0082,Food Processor,Madhya Pradesh,B,0.97
+CUS00083,Customer_0083,Wholesale,Uttar Pradesh,B,0.95
+CUS00084,Customer_0084,Modern Retail,Himachal Pradesh,B,0.97
+CUS00085,Customer_0085,Food Processor,Rajasthan,A,0.95
+CUS00086,Customer_0086,HORECA,Haryana,C,0.95
+CUS00087,Customer_0087,Wholesale,Maharashtra,C,0.95
+CUS00088,Customer_0088,HORECA,Gujarat,A,0.95
+CUS00089,Customer_0089,Modern Retail,Gujarat,A,0.98
+CUS00090,Customer_0090,Wholesale,Uttar Pradesh,C,0.95
+CUS00091,Customer_0091,Export,Gujarat,B,0.95
+CUS00092,Customer_0092,Export,Tamil Nadu,A,0.97
+CUS00093,Customer_0093,Wholesale,Tamil Nadu,B,0.97
+CUS00094,Customer_0094,Wholesale,Uttar Pradesh,A,0.98
+CUS00095,Customer_0095,HORECA,Karnataka,A,0.92
+CUS00096,Customer_0096,Wholesale,Karnataka,C,0.95
+CUS00097,Customer_0097,Wholesale,Uttar Pradesh,C,0.92
+CUS00098,Customer_0098,Modern Retail,Himachal Pradesh,C,0.97
+CUS00099,Customer_0099,Wholesale,Punjab,A,0.98
+CUS00100,Customer_0100,HORECA,Haryana,C,0.98
+CUS00101,Customer_0101,Food Processor,Punjab,C,0.95
+CUS00102,Customer_0102,Modern Retail,Gujarat,A,0.97
+CUS00103,Customer_0103,Food Processor,Rajasthan,A,0.97
+CUS00104,Customer_0104,HORECA,Himachal Pradesh,C,0.97
+CUS00105,Customer_0105,Wholesale,Madhya Pradesh,B,0.97
+CUS00106,Customer_0106,Food Processor,Madhya Pradesh,C,0.92
+CUS00107,Customer_0107,Modern Retail,Karnataka,C,0.95
+CUS00108,Customer_0108,HORECA,Himachal Pradesh,C,0.95
+CUS00109,Customer_0109,Wholesale,Tamil Nadu,A,0.92
+CUS00110,Customer_0110,Wholesale,Madhya Pradesh,B,0.97
+CUS00111,Customer_0111,Export,Himachal Pradesh,C,0.95
+CUS00112,Customer_0112,Wholesale,Maharashtra,C,0.97
+CUS00113,Customer_0113,HORECA,Maharashtra,A,0.97
+CUS00114,Customer_0114,Wholesale,Karnataka,B,0.98
+CUS00115,Customer_0115,Wholesale,Gujarat,A,0.98
+CUS00116,Customer_0116,Wholesale,Rajasthan,C,0.95
+CUS00117,Customer_0117,Wholesale,Tamil Nadu,A,0.95
+CUS00118,Customer_0118,Food Processor,Madhya Pradesh,A,0.95
+CUS00119,Customer_0119,Modern Retail,Maharashtra,B,0.95
+CUS00120,Customer_0120,Export,Haryana,C,0.95
+CUS00121,Customer_0121,Wholesale,Maharashtra,A,0.95
+CUS00122,Customer_0122,Modern Retail,Haryana,A,0.95
+CUS00123,Customer_0123,Food Processor,Maharashtra,A,0.97
+CUS00124,Customer_0124,Wholesale,Madhya Pradesh,B,0.97
+CUS00125,Customer_0125,Wholesale,Gujarat,C,0.97
+CUS00126,Customer_0126,Wholesale,Punjab,B,0.98
+CUS00127,Customer_0127,HORECA,Rajasthan,B,0.97
+CUS00128,Customer_0128,HORECA,Himachal Pradesh,B,0.95
+CUS00129,Customer_0129,Modern Retail,Tamil Nadu,A,0.97
+CUS00130,Customer_0130,HORECA,Maharashtra,A,0.98
+CUS00131,Customer_0131,Modern Retail,Gujarat,A,0.92
+CUS00132,Customer_0132,Wholesale,Madhya Pradesh,B,0.97
+CUS00133,Customer_0133,Wholesale,Gujarat,B,0.95
+CUS00134,Customer_0134,Modern Retail,Madhya Pradesh,A,0.98
+CUS00135,Customer_0135,HORECA,Maharashtra,C,0.92
+CUS00136,Customer_0136,Wholesale,Tamil Nadu,A,0.95
+CUS00137,Customer_0137,Food Processor,Gujarat,B,0.97
+CUS00138,Customer_0138,HORECA,Karnataka,C,0.95
+CUS00139,Customer_0139,Export,Uttar Pradesh,A,0.95
+CUS00140,Customer_0140,Modern Retail,Punjab,B,0.92
+CUS00141,Customer_0141,Food Processor,Haryana,C,0.95
+CUS00142,Customer_0142,Modern Retail,Karnataka,B,0.98
+CUS00143,Customer_0143,HORECA,Madhya Pradesh,C,0.95
+CUS00144,Customer_0144,Modern Retail,Karnataka,B,0.95
+CUS00145,Customer_0145,Export,Punjab,B,0.97
+CUS00146,Customer_0146,Modern Retail,Karnataka,A,0.97
+CUS00147,Customer_0147,Wholesale,Maharashtra,C,0.95
+CUS00148,Customer_0148,Modern Retail,Haryana,B,0.95
+CUS00149,Customer_0149,Food Processor,Punjab,C,0.95
+CUS00150,Customer_0150,Food Processor,Uttar Pradesh,B,0.92
+CUS00151,Customer_0151,Food Processor,Madhya Pradesh,C,0.95
+CUS00152,Customer_0152,Food Processor,Gujarat,B,0.92
+CUS00153,Customer_0153,Modern Retail,Haryana,C,0.95
+CUS00154,Customer_0154,Modern Retail,Tamil Nadu,B,0.95
+CUS00155,Customer_0155,HORECA,Haryana,C,0.92
+CUS00156,Customer_0156,Food Processor,Karnataka,B,0.92
+CUS00157,Customer_0157,Modern Retail,Madhya Pradesh,B,0.98
+CUS00158,Customer_0158,Wholesale,Punjab,B,0.95
+CUS00159,Customer_0159,Food Processor,Rajasthan,C,0.97
+CUS00160,Customer_0160,Export,Rajasthan,B,0.97
+CUS00161,Customer_0161,Wholesale,Uttar Pradesh,B,0.92
+CUS00162,Customer_0162,Modern Retail,Himachal Pradesh,B,0.97
+CUS00163,Customer_0163,Modern Retail,Tamil Nadu,C,0.95
+CUS00164,Customer_0164,HORECA,Tamil Nadu,C,0.98
+CUS00165,Customer_0165,Wholesale,Gujarat,B,0.95
+CUS00166,Customer_0166,Food Processor,Madhya Pradesh,C,0.98
+CUS00167,Customer_0167,Food Processor,Himachal Pradesh,C,0.97
+CUS00168,Customer_0168,Food Processor,Karnataka,A,0.95
+CUS00169,Customer_0169,Wholesale,Himachal Pradesh,B,0.95
+CUS00170,Customer_0170,Modern Retail,Karnataka,B,0.95
+CUS00171,Customer_0171,Food Processor,Madhya Pradesh,B,0.95
+CUS00172,Customer_0172,Modern Retail,Himachal Pradesh,C,0.92
+CUS00173,Customer_0173,Modern Retail,Gujarat,B,0.95
+CUS00174,Customer_0174,Wholesale,Punjab,B,0.92
+CUS00175,Customer_0175,Food Processor,Madhya Pradesh,C,0.97
+CUS00176,Customer_0176,Modern Retail,Uttar Pradesh,A,0.92
+CUS00177,Customer_0177,Export,Rajasthan,B,0.95
+CUS00178,Customer_0178,Food Processor,Maharashtra,A,0.92
+CUS00179,Customer_0179,Food Processor,Karnataka,B,0.95
+CUS00180,Customer_0180,Wholesale,Maharashtra,B,0.92
+CUS00181,Customer_0181,HORECA,Madhya Pradesh,B,0.98
+CUS00182,Customer_0182,Wholesale,Karnataka,B,0.98
+CUS00183,Customer_0183,HORECA,Rajasthan,C,0.92
+CUS00184,Customer_0184,Modern Retail,Punjab,B,0.97
+CUS00185,Customer_0185,HORECA,Haryana,B,0.97
+CUS00186,Customer_0186,Export,Karnataka,A,0.97
+CUS00187,Customer_0187,Food Processor,Tamil Nadu,B,0.95
+CUS00188,Customer_0188,Wholesale,Karnataka,B,0.92
+CUS00189,Customer_0189,Food Processor,Gujarat,A,0.97
+CUS00190,Customer_0190,Wholesale,Rajasthan,C,0.97
+CUS00191,Customer_0191,Food Processor,Madhya Pradesh,B,0.95
+CUS00192,Customer_0192,Food Processor,Gujarat,A,0.98
+CUS00193,Customer_0193,Modern Retail,Tamil Nadu,B,0.95
+CUS00194,Customer_0194,Modern Retail,Himachal Pradesh,B,0.97
+CUS00195,Customer_0195,Modern Retail,Maharashtra,B,0.95
+CUS00196,Customer_0196,Export,Gujarat,A,0.95
+CUS00197,Customer_0197,Food Processor,Rajasthan,A,0.98
+CUS00198,Customer_0198,Modern Retail,Haryana,A,0.98
+CUS00199,Customer_0199,Export,Karnataka,B,0.98
+CUS00200,Customer_0200,Modern Retail,Haryana,C,0.95
+CUS00201,Customer_0201,Modern Retail,Rajasthan,B,0.97
+CUS00202,Customer_0202,Modern Retail,Punjab,B,0.95
+CUS00203,Customer_0203,HORECA,Madhya Pradesh,B,0.98
+CUS00204,Customer_0204,HORECA,Maharashtra,A,0.95
+CUS00205,Customer_0205,Export,Karnataka,C,0.97
+CUS00206,Customer_0206,Wholesale,Karnataka,A,0.98
+CUS00207,Customer_0207,Wholesale,Gujarat,C,0.98
+CUS00208,Customer_0208,Modern Retail,Maharashtra,B,0.95
+CUS00209,Customer_0209,HORECA,Maharashtra,B,0.95
+CUS00210,Customer_0210,Food Processor,Rajasthan,B,0.92
+CUS00211,Customer_0211,Food Processor,Karnataka,B,0.92
+CUS00212,Customer_0212,Wholesale,Gujarat,A,0.92
+CUS00213,Customer_0213,Modern Retail,Madhya Pradesh,B,0.95
+CUS00214,Customer_0214,HORECA,Madhya Pradesh,A,0.95
+CUS00215,Customer_0215,Wholesale,Rajasthan,B,0.95
+CUS00216,Customer_0216,Food Processor,Punjab,B,0.97
+CUS00217,Customer_0217,Wholesale,Uttar Pradesh,A,0.95
+CUS00218,Customer_0218,Food Processor,Himachal Pradesh,A,0.95
+CUS00219,Customer_0219,Export,Tamil Nadu,B,0.97
+CUS00220,Customer_0220,Modern Retail,Karnataka,B,0.95
+CUS00221,Customer_0221,Food Processor,Himachal Pradesh,B,0.97
+CUS00222,Customer_0222,Food Processor,Gujarat,B,0.97
+CUS00223,Customer_0223,Wholesale,Rajasthan,A,0.92
+CUS00224,Customer_0224,Modern Retail,Uttar Pradesh,B,0.97
+CUS00225,Customer_0225,Modern Retail,Punjab,C,0.97
+CUS00226,Customer_0226,Food Processor,Punjab,A,0.92
+CUS00227,Customer_0227,Food Processor,Tamil Nadu,B,0.92
+CUS00228,Customer_0228,Modern Retail,Himachal Pradesh,C,0.97
+CUS00229,Customer_0229,Food Processor,Maharashtra,B,0.97
+CUS00230,Customer_0230,HORECA,Maharashtra,A,0.97
+CUS00231,Customer_0231,Wholesale,Uttar Pradesh,A,0.92
+CUS00232,Customer_0232,HORECA,Gujarat,B,0.95
+CUS00233,Customer_0233,Food Processor,Gujarat,A,0.95
+CUS00234,Customer_0234,Wholesale,Haryana,C,0.97
+CUS00235,Customer_0235,Modern Retail,Haryana,A,0.97
+CUS00236,Customer_0236,Wholesale,Uttar Pradesh,B,0.95
+CUS00237,Customer_0237,Modern Retail,Punjab,C,0.95
+CUS00238,Customer_0238,HORECA,Punjab,B,0.95
+CUS00239,Customer_0239,Modern Retail,Himachal Pradesh,A,0.98
+CUS00240,Customer_0240,Export,Gujarat,B,0.95
+CUS00241,Customer_0241,Modern Retail,Haryana,C,0.95
+CUS00242,Customer_0242,HORECA,Maharashtra,C,0.95
+CUS00243,Customer_0243,Modern Retail,Haryana,A,0.95
+CUS00244,Customer_0244,HORECA,Rajasthan,B,0.95
+CUS00245,Customer_0245,Modern Retail,Maharashtra,B,0.97
+CUS00246,Customer_0246,Food Processor,Madhya Pradesh,A,0.97
+CUS00247,Customer_0247,Modern Retail,Gujarat,A,0.95
+CUS00248,Customer_0248,Modern Retail,Gujarat,B,0.97
+CUS00249,Customer_0249,HORECA,Himachal Pradesh,B,0.97
+CUS00250,Customer_0250,Wholesale,Haryana,B,0.92
+CUS00251,Customer_0251,Modern Retail,Tamil Nadu,A,0.95
+CUS00252,Customer_0252,HORECA,Tamil Nadu,B,0.97
+CUS00253,Customer_0253,Modern Retail,Haryana,A,0.97
+CUS00254,Customer_0254,Modern Retail,Gujarat,C,0.92
+CUS00255,Customer_0255,Export,Punjab,A,0.97
+CUS00256,Customer_0256,Wholesale,Punjab,C,0.95
+CUS00257,Customer_0257,Modern Retail,Punjab,B,0.95
+CUS00258,Customer_0258,Wholesale,Rajasthan,A,0.98
+CUS00259,Customer_0259,HORECA,Maharashtra,B,0.95
+CUS00260,Customer_0260,Wholesale,Himachal Pradesh,C,0.92
+CUS00261,Customer_0261,Wholesale,Karnataka,B,0.95
+CUS00262,Customer_0262,Modern Retail,Rajasthan,B,0.95
+CUS00263,Customer_0263,HORECA,Punjab,B,0.92
+CUS00264,Customer_0264,Export,Uttar Pradesh,B,0.97
+CUS00265,Customer_0265,Export,Himachal Pradesh,B,0.98
+CUS00266,Customer_0266,Modern Retail,Madhya Pradesh,B,0.98
+CUS00267,Customer_0267,Wholesale,Uttar Pradesh,B,0.95
+CUS00268,Customer_0268,Wholesale,Uttar Pradesh,C,0.92
+CUS00269,Customer_0269,Wholesale,Maharashtra,B,0.95
+CUS00270,Customer_0270,Modern Retail,Gujarat,B,0.97
+CUS00271,Customer_0271,Wholesale,Rajasthan,A,0.98
+CUS00272,Customer_0272,Wholesale,Rajasthan,B,0.95
+CUS00273,Customer_0273,Food Processor,Maharashtra,B,0.95
+CUS00274,Customer_0274,Wholesale,Himachal Pradesh,A,0.97
+CUS00275,Customer_0275,Modern Retail,Punjab,A,0.97
+CUS00276,Customer_0276,Food Processor,Rajasthan,C,0.97
+CUS00277,Customer_0277,Food Processor,Madhya Pradesh,A,0.95
+CUS00278,Customer_0278,Wholesale,Punjab,A,0.92
+CUS00279,Customer_0279,Wholesale,Gujarat,C,0.95
+CUS00280,Customer_0280,HORECA,Karnataka,B,0.97
+CUS00281,Customer_0281,Modern Retail,Madhya Pradesh,A,0.95
+CUS00282,Customer_0282,Food Processor,Gujarat,B,0.97
+CUS00283,Customer_0283,Wholesale,Madhya Pradesh,A,0.98
+CUS00284,Customer_0284,Food Processor,Madhya Pradesh,B,0.95
+CUS00285,Customer_0285,Wholesale,Gujarat,B,0.98
+CUS00286,Customer_0286,Wholesale,Tamil Nadu,B,0.95
+CUS00287,Customer_0287,Modern Retail,Himachal Pradesh,B,0.95
+CUS00288,Customer_0288,Wholesale,Punjab,C,0.97
+CUS00289,Customer_0289,Wholesale,Rajasthan,C,0.92
+CUS00290,Customer_0290,HORECA,Madhya Pradesh,B,0.98
+CUS00291,Customer_0291,Modern Retail,Uttar Pradesh,B,0.95
+CUS00292,Customer_0292,Modern Retail,Rajasthan,B,0.97
+CUS00293,Customer_0293,Food Processor,Himachal Pradesh,B,0.97
+CUS00294,Customer_0294,Modern Retail,Karnataka,B,0.95
+CUS00295,Customer_0295,Modern Retail,Karnataka,C,0.95
+CUS00296,Customer_0296,Modern Retail,Uttar Pradesh,B,0.92
+CUS00297,Customer_0297,Modern Retail,Uttar Pradesh,B,0.97
+CUS00298,Customer_0298,Wholesale,Himachal Pradesh,B,0.95
+CUS00299,Customer_0299,Wholesale,Tamil Nadu,B,0.95
+CUS00300,Customer_0300,Food Processor,Tamil Nadu,A,0.97
+CUS00301,Customer_0301,Food Processor,Himachal Pradesh,B,0.98
+CUS00302,Customer_0302,Wholesale,Tamil Nadu,B,0.95
+CUS00303,Customer_0303,Modern Retail,Punjab,A,0.95
+CUS00304,Customer_0304,Modern Retail,Madhya Pradesh,C,0.97
+CUS00305,Customer_0305,Modern Retail,Rajasthan,B,0.98
+CUS00306,Customer_0306,Wholesale,Gujarat,C,0.95
+CUS00307,Customer_0307,Food Processor,Maharashtra,C,0.95
+CUS00308,Customer_0308,Export,Himachal Pradesh,A,0.97
+CUS00309,Customer_0309,Wholesale,Karnataka,B,0.95
+CUS00310,Customer_0310,Wholesale,Uttar Pradesh,B,0.97
+CUS00311,Customer_0311,Food Processor,Punjab,C,0.95
+CUS00312,Customer_0312,Modern Retail,Karnataka,A,0.97
+CUS00313,Customer_0313,Export,Madhya Pradesh,C,0.95
+CUS00314,Customer_0314,Export,Haryana,A,0.97
+CUS00315,Customer_0315,Modern Retail,Gujarat,B,0.98
+CUS00316,Customer_0316,Wholesale,Punjab,A,0.98
+CUS00317,Customer_0317,Wholesale,Haryana,A,0.95
+CUS00318,Customer_0318,Wholesale,Rajasthan,A,0.98
+CUS00319,Customer_0319,Wholesale,Maharashtra,C,0.97
+CUS00320,Customer_0320,Modern Retail,Haryana,A,0.98
+CUS00321,Customer_0321,Modern Retail,Rajasthan,C,0.97
+CUS00322,Customer_0322,Modern Retail,Rajasthan,C,0.97
+CUS00323,Customer_0323,Food Processor,Rajasthan,A,0.97
+CUS00324,Customer_0324,HORECA,Uttar Pradesh,A,0.98
+CUS00325,Customer_0325,HORECA,Haryana,B,0.92
+CUS00326,Customer_0326,HORECA,Gujarat,B,0.95
+CUS00327,Customer_0327,Wholesale,Rajasthan,A,0.95
+CUS00328,Customer_0328,Food Processor,Haryana,A,0.92
+CUS00329,Customer_0329,Food Processor,Karnataka,C,0.92
+CUS00330,Customer_0330,Wholesale,Punjab,C,0.97
+CUS00331,Customer_0331,Food Processor,Uttar Pradesh,C,0.92
+CUS00332,Customer_0332,HORECA,Himachal Pradesh,A,0.95
+CUS00333,Customer_0333,Wholesale,Rajasthan,C,0.98
+CUS00334,Customer_0334,Modern Retail,Maharashtra,A,0.97
+CUS00335,Customer_0335,Wholesale,Punjab,C,0.97
+CUS00336,Customer_0336,Modern Retail,Rajasthan,B,0.98
+CUS00337,Customer_0337,HORECA,Rajasthan,A,0.97
+CUS00338,Customer_0338,Wholesale,Haryana,B,0.97
+CUS00339,Customer_0339,Food Processor,Himachal Pradesh,B,0.92
+CUS00340,Customer_0340,Modern Retail,Tamil Nadu,C,0.97
+CUS00341,Customer_0341,HORECA,Gujarat,B,0.97
+CUS00342,Customer_0342,HORECA,Maharashtra,B,0.97
+CUS00343,Customer_0343,Wholesale,Haryana,C,0.95
+CUS00344,Customer_0344,Export,Tamil Nadu,B,0.95
+CUS00345,Customer_0345,Modern Retail,Maharashtra,A,0.97
+CUS00346,Customer_0346,Modern Retail,Maharashtra,C,0.95
+CUS00347,Customer_0347,Food Processor,Madhya Pradesh,B,0.95
+CUS00348,Customer_0348,Wholesale,Tamil Nadu,B,0.98
+CUS00349,Customer_0349,Food Processor,Karnataka,C,0.95
+CUS00350,Customer_0350,Food Processor,Haryana,C,0.97
+CUS00351,Customer_0351,Food Processor,Karnataka,C,0.95
+CUS00352,Customer_0352,Food Processor,Tamil Nadu,C,0.95
+CUS00353,Customer_0353,Modern Retail,Tamil Nadu,B,0.97
+CUS00354,Customer_0354,Modern Retail,Uttar Pradesh,C,0.95
+CUS00355,Customer_0355,HORECA,Haryana,B,0.95
+CUS00356,Customer_0356,Modern Retail,Gujarat,B,0.97
+CUS00357,Customer_0357,HORECA,Maharashtra,B,0.97
+CUS00358,Customer_0358,Food Processor,Uttar Pradesh,B,0.98
+CUS00359,Customer_0359,Wholesale,Karnataka,A,0.97
+CUS00360,Customer_0360,Export,Tamil Nadu,B,0.92
+CUS00361,Customer_0361,HORECA,Punjab,A,0.97
+CUS00362,Customer_0362,Modern Retail,Maharashtra,B,0.95
+CUS00363,Customer_0363,HORECA,Karnataka,A,0.98
+CUS00364,Customer_0364,Wholesale,Uttar Pradesh,B,0.95
+CUS00365,Customer_0365,Export,Punjab,A,0.92
+CUS00366,Customer_0366,Food Processor,Maharashtra,B,0.95
+CUS00367,Customer_0367,Modern Retail,Rajasthan,C,0.97
+CUS00368,Customer_0368,Food Processor,Tamil Nadu,A,0.92
+CUS00369,Customer_0369,Food Processor,Madhya Pradesh,B,0.97
+CUS00370,Customer_0370,Wholesale,Maharashtra,A,0.97
+CUS00371,Customer_0371,Wholesale,Uttar Pradesh,B,0.97
+CUS00372,Customer_0372,Export,Rajasthan,A,0.97
+CUS00373,Customer_0373,Food Processor,Madhya Pradesh,A,0.92
+CUS00374,Customer_0374,Modern Retail,Uttar Pradesh,C,0.97
+CUS00375,Customer_0375,Modern Retail,Gujarat,A,0.97
+CUS00376,Customer_0376,Food Processor,Haryana,B,0.97
+CUS00377,Customer_0377,Food Processor,Punjab,B,0.98
+CUS00378,Customer_0378,Food Processor,Madhya Pradesh,C,0.92
+CUS00379,Customer_0379,HORECA,Rajasthan,C,0.95
+CUS00380,Customer_0380,Wholesale,Punjab,C,0.95
+CUS00381,Customer_0381,Export,Rajasthan,C,0.92
+CUS00382,Customer_0382,Modern Retail,Tamil Nadu,A,0.97
+CUS00383,Customer_0383,HORECA,Gujarat,B,0.95
+CUS00384,Customer_0384,Modern Retail,Rajasthan,A,0.97
+CUS00385,Customer_0385,Wholesale,Uttar Pradesh,B,0.97
+CUS00386,Customer_0386,Modern Retail,Uttar Pradesh,A,0.97
+CUS00387,Customer_0387,Food Processor,Haryana,C,0.97
+CUS00388,Customer_0388,Wholesale,Karnataka,A,0.95
+CUS00389,Customer_0389,Wholesale,Punjab,B,0.97
+CUS00390,Customer_0390,Modern Retail,Himachal Pradesh,B,0.92
+CUS00391,Customer_0391,Modern Retail,Karnataka,B,0.97
+CUS00392,Customer_0392,Food Processor,Rajasthan,B,0.98
+CUS00393,Customer_0393,Wholesale,Maharashtra,A,0.97
+CUS00394,Customer_0394,Export,Gujarat,C,0.97
+CUS00395,Customer_0395,HORECA,Madhya Pradesh,C,0.97
+CUS00396,Customer_0396,HORECA,Madhya Pradesh,C,0.97
+CUS00397,Customer_0397,HORECA,Punjab,B,0.98
+CUS00398,Customer_0398,Modern Retail,Haryana,C,0.97
+CUS00399,Customer_0399,Wholesale,Himachal Pradesh,C,0.95
+CUS00400,Customer_0400,Export,Maharashtra,B,0.98
+CUS00401,Customer_0401,Wholesale,Rajasthan,B,0.95
+CUS00402,Customer_0402,Food Processor,Rajasthan,B,0.97
+CUS00403,Customer_0403,Food Processor,Himachal Pradesh,B,0.98
+CUS00404,Customer_0404,Food Processor,Karnataka,B,0.95
+CUS00405,Customer_0405,HORECA,Gujarat,A,0.98
+CUS00406,Customer_0406,Export,Rajasthan,B,0.95
+CUS00407,Customer_0407,Wholesale,Maharashtra,C,0.92
+CUS00408,Customer_0408,Wholesale,Haryana,B,0.95
+CUS00409,Customer_0409,Wholesale,Karnataka,B,0.97
+CUS00410,Customer_0410,HORECA,Maharashtra,B,0.95
+CUS00411,Customer_0411,Modern Retail,Madhya Pradesh,B,0.98
+CUS00412,Customer_0412,Modern Retail,Haryana,A,0.97
+CUS00413,Customer_0413,Wholesale,Uttar Pradesh,A,0.97
+CUS00414,Customer_0414,Modern Retail,Gujarat,B,0.98
+CUS00415,Customer_0415,Wholesale,Rajasthan,B,0.97
+CUS00416,Customer_0416,Wholesale,Tamil Nadu,C,0.97
+CUS00417,Customer_0417,Wholesale,Rajasthan,B,0.95
+CUS00418,Customer_0418,Wholesale,Punjab,C,0.98
+CUS00419,Customer_0419,HORECA,Karnataka,B,0.97
+CUS00420,Customer_0420,Modern Retail,Gujarat,B,0.98
+CUS00421,Customer_0421,Export,Tamil Nadu,A,0.95
+CUS00422,Customer_0422,Food Processor,Maharashtra,A,0.95
+CUS00423,Customer_0423,Modern Retail,Himachal Pradesh,C,0.97
+CUS00424,Customer_0424,Food Processor,Uttar Pradesh,B,0.97
+CUS00425,Customer_0425,Food Processor,Madhya Pradesh,B,0.97
+CUS00426,Customer_0426,Modern Retail,Uttar Pradesh,B,0.97
+CUS00427,Customer_0427,Export,Himachal Pradesh,A,0.97
+CUS00428,Customer_0428,Food Processor,Uttar Pradesh,A,0.98
+CUS00429,Customer_0429,Wholesale,Gujarat,C,0.95
+CUS00430,Customer_0430,Food Processor,Madhya Pradesh,B,0.97
+CUS00431,Customer_0431,HORECA,Maharashtra,C,0.98
+CUS00432,Customer_0432,Food Processor,Haryana,B,0.95
+CUS00433,Customer_0433,Food Processor,Uttar Pradesh,B,0.95
+CUS00434,Customer_0434,HORECA,Himachal Pradesh,A,0.97
+CUS00435,Customer_0435,HORECA,Haryana,A,0.95
+CUS00436,Customer_0436,Modern Retail,Rajasthan,B,0.98
+CUS00437,Customer_0437,Wholesale,Rajasthan,B,0.95
+CUS00438,Customer_0438,Modern Retail,Uttar Pradesh,B,0.97
+CUS00439,Customer_0439,Modern Retail,Himachal Pradesh,A,0.97
+CUS00440,Customer_0440,HORECA,Karnataka,B,0.95
+CUS00441,Customer_0441,Modern Retail,Rajasthan,B,0.92
+CUS00442,Customer_0442,Wholesale,Himachal Pradesh,A,0.98
+CUS00443,Customer_0443,Modern Retail,Haryana,B,0.95
+CUS00444,Customer_0444,Food Processor,Madhya Pradesh,B,0.95
+CUS00445,Customer_0445,Wholesale,Himachal Pradesh,C,0.98
+CUS00446,Customer_0446,Wholesale,Madhya Pradesh,B,0.95
+CUS00447,Customer_0447,Food Processor,Tamil Nadu,B,0.92
+CUS00448,Customer_0448,Export,Gujarat,C,0.95
+CUS00449,Customer_0449,HORECA,Tamil Nadu,B,0.92
+CUS00450,Customer_0450,Wholesale,Tamil Nadu,A,0.92
+CUS00451,Customer_0451,Wholesale,Punjab,A,0.95
+CUS00452,Customer_0452,HORECA,Haryana,B,0.98
+CUS00453,Customer_0453,Modern Retail,Punjab,B,0.95
+CUS00454,Customer_0454,Wholesale,Himachal Pradesh,A,0.97
+CUS00455,Customer_0455,Wholesale,Uttar Pradesh,B,0.97
+CUS00456,Customer_0456,Wholesale,Karnataka,B,0.97
+CUS00457,Customer_0457,Food Processor,Gujarat,C,0.97
+CUS00458,Customer_0458,Modern Retail,Uttar Pradesh,C,0.95
+CUS00459,Customer_0459,Wholesale,Haryana,A,0.98
+CUS00460,Customer_0460,Wholesale,Tamil Nadu,B,0.95
+CUS00461,Customer_0461,Wholesale,Maharashtra,B,0.98
+CUS00462,Customer_0462,Wholesale,Himachal Pradesh,B,0.97
+CUS00463,Customer_0463,Wholesale,Punjab,A,0.95
+CUS00464,Customer_0464,Food Processor,Tamil Nadu,B,0.97
+CUS00465,Customer_0465,Modern Retail,Gujarat,A,0.98
+CUS00466,Customer_0466,Wholesale,Madhya Pradesh,B,0.92
+CUS00467,Customer_0467,Food Processor,Rajasthan,B,0.92
+CUS00468,Customer_0468,Modern Retail,Uttar Pradesh,B,0.92
+CUS00469,Customer_0469,Food Processor,Rajasthan,B,0.95
+CUS00470,Customer_0470,HORECA,Gujarat,A,0.97
+CUS00471,Customer_0471,Export,Tamil Nadu,B,0.98
+CUS00472,Customer_0472,Modern Retail,Uttar Pradesh,B,0.95
+CUS00473,Customer_0473,Modern Retail,Madhya Pradesh,B,0.95
+CUS00474,Customer_0474,Food Processor,Uttar Pradesh,B,0.95
+CUS00475,Customer_0475,Wholesale,Uttar Pradesh,C,0.95
+CUS00476,Customer_0476,Wholesale,Gujarat,B,0.95
+CUS00477,Customer_0477,Wholesale,Gujarat,A,0.97
+CUS00478,Customer_0478,Export,Gujarat,A,0.95
+CUS00479,Customer_0479,Wholesale,Punjab,A,0.95
+CUS00480,Customer_0480,Wholesale,Punjab,A,0.97
+CUS00481,Customer_0481,HORECA,Madhya Pradesh,A,0.97
+CUS00482,Customer_0482,Food Processor,Himachal Pradesh,A,0.92
+CUS00483,Customer_0483,Modern Retail,Madhya Pradesh,B,0.92
+CUS00484,Customer_0484,Wholesale,Uttar Pradesh,B,0.95
+CUS00485,Customer_0485,Modern Retail,Madhya Pradesh,B,0.92
+CUS00486,Customer_0486,Export,Gujarat,B,0.95
+CUS00487,Customer_0487,Modern Retail,Tamil Nadu,C,0.98
+CUS00488,Customer_0488,HORECA,Madhya Pradesh,A,0.95
+CUS00489,Customer_0489,Modern Retail,Himachal Pradesh,C,0.97
+CUS00490,Customer_0490,Food Processor,Haryana,C,0.97
+CUS00491,Customer_0491,Food Processor,Madhya Pradesh,C,0.97
+CUS00492,Customer_0492,Food Processor,Haryana,B,0.98
+CUS00493,Customer_0493,Food Processor,Gujarat,A,0.98
+CUS00494,Customer_0494,Modern Retail,Punjab,A,0.95
+CUS00495,Customer_0495,Wholesale,Karnataka,A,0.98
+CUS00496,Customer_0496,Wholesale,Himachal Pradesh,A,0.97
+CUS00497,Customer_0497,Wholesale,Haryana,A,0.95
+CUS00498,Customer_0498,Modern Retail,Uttar Pradesh,C,0.95
+CUS00499,Customer_0499,Modern Retail,Gujarat,A,0.92
+CUS00500,Customer_0500,Food Processor,Punjab,B,0.98

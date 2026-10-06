@@ -1,0 +1,14 @@
+{
+  "name": "AgriFlow Executive",
+  "dataColors": [
+    "#315C2B",
+    "#6A994E",
+    "#A7C957",
+    "#BC6C25",
+    "#8C2F39",
+    "#577590"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#253237",
+  "tableAccent": "#315C2B"
+}
